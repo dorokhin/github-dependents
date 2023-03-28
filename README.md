@@ -5,6 +5,11 @@
 
 
 ## Usage
+Clone the repository:
+```console
+git clone git@github.com:dorokhin/github-dependents.git
+```
+
 Change the repo variable to the repository you want to get the dependents of:
 ```python
 repo = "pyserial/pyserial"
